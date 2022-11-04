@@ -18,7 +18,7 @@ A deeper analysis in the data revealed that the more frequent users were those t
 
 When the gender variable was employed in the analysis to observe the time and duration of bike rides per trip. It was determined that males’ users were higher and that there was also an increase in ride duration for males than females. Male users were also more than female users even when the “Unknown” variable was observed by genders as even if those were all females the bike share rides by females would still not equal to that by males. 
 
-##Recommendations
+Recommendations
 
 
 The recommendations for further analysis after observing the data are: 
