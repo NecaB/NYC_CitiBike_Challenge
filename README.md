@@ -1,9 +1,13 @@
 # NYC_CitiBike_Challenge
 
 Overview 
+
+
 This week’s challenge was to assist some friends with an analysis for possible investors about the potential of a Bike Sharing program in Des Moines, Iowa. To present this data they utilized information from a similar bike sharing program; Citi Bank bike sharing in New York City. The data from this bike sharing in New York was downloaded and then analyzed using Tableau. The main focuses of the analysis were; identifying the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week and the most likely days of the week for a user to check out a bike, by type of user and gender.
 
 Results
+
+
 An analysis of a total number of 2,344,224 trips provided information of what the Bike Sharing program in Des Moines would be comparable with even though Des Moines may not be the same as New York City the following conclusions maybe drawn from this analysis.
 
 Males utilize the service more than females, mainly during commuting hours assumingly for transportation to and from work and that these were mostly subscribers of the program. Additionally, the weekend usage was lesser than the weekday usage and that these were mostly customers. 
@@ -15,6 +19,8 @@ A deeper analysis in the data revealed that the more frequent users were those t
 When the gender variable was employed in the analysis to observe the time and duration of bike rides per trip. It was determined that males’ users were higher and that there was also an increase in ride duration for males than females. Male users were also more than female users even when the “Unknown” variable was observed by genders as even if those were all females the bike share rides by females would still not equal to that by males. 
 
 ##Recommendations
+
+
 The recommendations for further analysis after observing the data are: 
 Other variables could be employed to further analyze the usage of the bike sharing services specifically the Age of Riders and the duration of their rides. Additionally, the age of Subscribers compared to that of customers would be also important in assisting to understand the customers to target for the bike sharing program. 
 
