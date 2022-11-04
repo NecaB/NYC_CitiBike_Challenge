@@ -28,3 +28,8 @@ Measuring the weekend usage in time per rider and then comparing that to weekday
 
 A more detailed yearly analysis would provide more data to determine if this is a seasonal or yearly business as the analysis was only for the summer in New York and may be limited in provided the best benchmarking for Des Moines. 
 
+[link to dashboard](https://public.tableau.com/app/profile/lillias.bryan/viz/CitiBikeVisualizations_16675435669180/NYCCITIBIKEANALYSIS?publish=yes)
+
+[link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/lillias.bryan/viz/CitiBikeVisualizations_16675435669180/NYCCITIBIKEANALYSIS?publish=yesd")
+
+
